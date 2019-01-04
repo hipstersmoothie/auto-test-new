@@ -1,5 +1,5 @@
 {
-  "name": "test-new",
+  "name": "auto-test-new",
   "version": "0.30.0",
   "description": "Auto release fresh release single package",
   "main": "index.js",
