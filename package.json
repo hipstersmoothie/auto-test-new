@@ -17,6 +17,9 @@
     "type": "git",
     "url": "https://github.com/hipstersmoothie/auto-test-new"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "devDependencies": {
     "auto-release-cli": "^0.37.9",
     "eslint-config-prettier": "^3.3.0",
