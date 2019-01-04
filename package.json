@@ -1,6 +1,6 @@
 {
   "name": "auto-test-new",
-  "version": "0.30.3",
+  "version": "0.30.4",
   "description": "Auto release fresh release single package",
   "main": "index.js",
   "source": "index.js",
